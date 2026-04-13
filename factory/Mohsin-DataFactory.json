@@ -1,0 +1,9 @@
+{
+	"name": "Mohsin-DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5d53c68-7d7b-4365-86cf-7b8949bf6aac",
+		"tenantId": "28ea4518-c483-4a28-bd8e-3e70cff570e3"
+	}
+}
